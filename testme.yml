@@ -1,0 +1,6 @@
+version:
+  mylog: 1.2.0.RELEASE
+app:
+  mylog:
+    server.port: 9002
+    log.level: ERROR
